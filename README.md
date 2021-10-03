@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm __Shaine Tsou__ based in Taiwan.
+I'm a goal-oriented __front end developer__ with hands-on experience in __JavaScript(ES6+)__, __React__, __Gatsby__, __GraphQL__, __Python__ areas with eagerness to continuously learn and master web technologies.
+
+I have a child-like ambition to learn and always strive to optimize solutions. So I've developed a great passion for programming. I enjoy solving challenging problems and creating software.
+My goal is to work with people much smarter than me and build tech for good. I look forward to learning and expanding my knowledge and skills
+
+
+- 🔭 I’m currently working on rebuilding my full-stack face detection app, [Smart Brain](https://github.com/ShaineTsou/smart-brain)
+- 🌱 I’m currently learning [Data Structures & Algorithms](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/), [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+
 <!--
 **ShaineTsou/ShaineTsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
