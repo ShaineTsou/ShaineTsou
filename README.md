@@ -3,7 +3,7 @@
 I'm __Shaine Tsou__ based in Taiwan 🚀.
 I'm a goal-oriented __front end developer__ with hands-on experience in __JavaScript(ES6+)__, __React__, __Gatsby__, __GraphQL__, __Python__ areas.
 
-I have a great passion for programming 🔥. I really love solving challenging problems and creating software. I strive to learn and master web technologies as much as I can every day.
+I have a great passion for programming 🔥. I really love solving challenging problems and creating software. I strive to learn and master web technologies every day.
 
 
 🔭 I’m currently rebuilding my full-stack face detection app, [Smart Brain](https://github.com/ShaineTsou/smart-brain) 🔍
