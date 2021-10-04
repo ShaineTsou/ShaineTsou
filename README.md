@@ -11,7 +11,7 @@ I have a great passion for programming 🔥. I really love solving challenging p
 
 🌱 I’m currently learning [Data Structures & Algorithms](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/), [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
 
-- ⚡ Fun fact: Five years ago, I was a little farmer 🧑🏻‍🌾. Five years later, I'm a happy coder 🧑🏻‍💻.
+⚡ Fun fact: 5 years ago, I was a little farmer 🧑🏻‍🌾. 5 years later, I'm a happy coder 🧑🏻‍💻.
 
 <!--
 **ShaineTsou/ShaineTsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
