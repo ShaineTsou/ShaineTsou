@@ -6,7 +6,7 @@ I'm a goal-oriented __front end developer__ with hands-on experience in __JavaSc
 I have a great passion for programming 🔥. I really love solving challenging problems and creating software. I strive to learn and master web technologies every day.
 
 
-🔭 I’m currently working on my new project, [TrekBeaver](https://github.com/ShaineTsou/trek-beaver) 🦫, and rebuilding my full-stack face detection app, [Smart Brain](https://github.com/ShaineTsou/smart-brain) 🔍
+🔭 I’m currently rebuilding my full-stack face detection app, [Smart Brain](https://github.com/ShaineTsou/smart-brain) 🔍
 
 
 🌱 I’m currently learning [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/), [Web & Mobile Design](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
