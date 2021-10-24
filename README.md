@@ -6,7 +6,7 @@ I'm a goal-oriented __front end developer__ with hands-on experience in __JavaSc
 I have a great passion for programming 🔥. I really love solving challenging problems and creating software. I strive to learn and master web technologies every day.
 
 
-🔭 I’m currently rebuilding on my e-commerce website, [CRWN Clothing](https://github.com/ShaineTsou/crwn-clothing) 🧢
+🔭 I’m currently rebuilding my e-commerce website, [CRWN Clothing](https://github.com/ShaineTsou/crwn-clothing) 🧢
 
 
 🌱 I’m currently learning [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/), [Web & Mobile Design](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
