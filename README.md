@@ -9,7 +9,7 @@ I have a great passion for programming 🔥. I really love solving challenging p
 🔭 I’m currently rebuilding my e-commerce website, [CRWN Clothing](https://github.com/ShaineTsou/crwn-clothing) 🧢
 
 
-🌱 I’m currently learning [Advanced JavaScript Concepts](https://www.udemy.com/course/advanced-javascript-concepts/), [Web & Mobile Design](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
+🌱 I’m currently learning [Web & Mobile Design](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) and [20 JavaScript Web Projects](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/)
 
 <!--
 **ShaineTsou/ShaineTsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
