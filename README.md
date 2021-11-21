@@ -5,7 +5,7 @@ I'm a goal-oriented __front end developer__ with hands-on experience in __JavaSc
 
 I have a great passion for programming 🔥. I really love solving challenging problems and creating software. I strive to learn and master web technologies every day.
 
-👉 Check out some of my featured projects: [My Portfolio](https://github.com/ShaineTsou/st-portfolio), [aiSee](https://github.com/ShaineTsou/aisee), [CRWN Clothing](https://github.com/ShaineTsou/crwn-clothing).
+👉 Check out some of my featured projects: [My Portfolio](https://www.shainetsou.space), [aiSee](https://shainetsou.github.io/aisee/), [CRWN Clothing](https://crwn-st-live.herokuapp.com/).
 
 <!--
 **ShaineTsou/ShaineTsou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
