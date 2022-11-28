@@ -7,4 +7,4 @@ I have a great passion for programming 🔥. I love solving challenging problems
 
 👉 Check out some of my featured projects: [My Portfolio](https://www.shainetsou.space), [aiSee](https://shainetsou.github.io/aisee/), [CRWN Clothing](https://crwn-st-live.herokuapp.com/).
 
-👉 Check out some of my coding challenges: [Data Structures and Algorithms Questions](https://github.com/ShaineTsou/ds-and-algo-js), [Advent of Code](https://github.com/ShaineTsou/advent-of-code)
+👉 Check out some of my coding challenges: [Data Structures and Algorithms Questions](https://github.com/ShaineTsou/ds-and-algo-js), [SQL Exercises](https://github.com/ShaineTsou/sql-exercises) [Advent of Code](https://github.com/ShaineTsou/advent-of-code)
