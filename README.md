@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm __Shaine Tsou__ based in Taiwan 🚀.
-I'm a goal-oriented __Front End Developer__ with hands-on experience in __JavaScript(ES6+)__, __React__, __Redux__, __Node.js__, __SQL__ areas.
+I'm a goal-oriented __Full Stack Developer__ with hands-on experience in __JavaScript(ES6+)__, __React__, __Redux__, __Node.js__, __SQL__ areas.
 
 I have a great passion for programming 🔥. I love solving challenging problems and building software. I strive to learn and master web technologies every day.
 
