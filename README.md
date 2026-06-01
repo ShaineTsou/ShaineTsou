@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm __Shaine Tsou__ based in Taoyuan City, Taiwan 🚀.
+I'm __Pei-Hsuan (Shaine) Tsou__ based in Taoyuan City, Taiwan 🚀.
 I'm a self-motivated __Full Stack Developer__ with hands-on experience in __JavaScript(ES6+)__, __Python__, __React__, __Redux__, __Node.js__, __SQL__ areas.
 
 I have a great passion for programming 🔥. I love solving challenging problems and building software.
