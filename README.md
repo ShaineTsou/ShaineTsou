@@ -6,4 +6,4 @@ I have a great passion for programming 🔥. I love solving challenging problems
 
 👉 Check out some of my featured projects: [My Portfolio](https://shainetsou.netlify.app/), [aiSee](https://shainetsou.github.io/aisee/).
 
-👉 Check out some of my coding challenges: [Data Structures and Algorithms Questions](https://github.com/ShaineTsou/ds-and-algo-js), [SQL Exercises](https://github.com/ShaineTsou/sql-exercises), [Advent of Code](https://github.com/ShaineTsou/advent-of-code)
+👉 Check out some of my coding challenges: [My 'The Farmer Was Replaced' Scripts](https://github.com/ShaineTsou/the-farmer-was-replaced), [Data Structures and Algorithms Questions](https://github.com/ShaineTsou/ds-and-algo-js), [SQL Exercises](https://github.com/ShaineTsou/sql-exercises), [Advent of Code](https://github.com/ShaineTsou/advent-of-code)
