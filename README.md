@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm __Pei-Hsuan (Shaine) Tsou__ based in Taoyuan City, Taiwan 🚀.
+I'm __Shaine Tsou__ based in Taoyuan City, Taiwan 🚀.
 
 I have a great passion for programming 🔥. I love solving challenging problems and building software.
 
